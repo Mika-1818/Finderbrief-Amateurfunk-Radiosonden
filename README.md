@@ -3,7 +3,7 @@ Dies ist ein Finderbrief für Amateurfunk-Radiosonden, der mit den eigenen pers�
 
 ### Update: Neue Version
 Demnächst werde ich hier ebenfalls eine Vorlage für einen 3,5cm x 10,5cm großen Sticker veröffentlichen. Diesen kann man dann anpassen und günstig im Internet bestellen. Er enthält einen deutschen und einen englischen Infotext.
-Auch der jetzige Finderbrief wird um einen englischen Text erweitert.
+Der jetzige Finderbrief wurde um eine englische Version erweitert.
 
 ### Anwendung
 Die roten Platzhalter werden vor dem Ausdrucken angepasst. Die Felder Startdatum und ggf. Seriennummer werden von Hand ausgefüllt.
